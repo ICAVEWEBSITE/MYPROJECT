@@ -1,0 +1,21 @@
+* {
+    background-color:blue;
+    margin-inline-start: 25px;
+    padding: 0px;
+    font-family: "Arial", sans-serif;
+    }
+h1,h2,h3 {
+            color:aqua;
+            font-style:italic;
+            font-size:40px;
+            align-items:center;
+        }
+dt {
+    color:black;
+    font-weight:bold;
+    font-size:30px;
+    }
+dd {
+    font-style: oblique;
+    font-size:25px;
+}

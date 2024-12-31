@@ -1,0 +1,16 @@
+* {
+    margin-inline-start:30px;
+}
+
+
+body
+{
+    background-color:aqua;
+}
+.submit {
+        color:blue;
+        }
+h1 {
+    color:green;
+    font-size:30px;
+    }

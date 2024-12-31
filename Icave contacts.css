@@ -1,0 +1,14 @@
+* {
+    background-color:yellow;
+    margin-inline-start:40px;
+    }
+h1,h2,h3,h4,h5,h6 {
+                    color:peru;
+                    font-weight:bold;
+                    font-size:large;
+                    font-size:30px;
+                    }
+dd {
+    font-size:30px;
+    font-style: italic;
+    }  
